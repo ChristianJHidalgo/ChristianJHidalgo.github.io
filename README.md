@@ -3,6 +3,6 @@
 Working on my Github pages site. 
 I was able to nab my own name domain- christianjhidalgo (christianhidalgo was already taken by goDaddy)
 
-going to add my domain https://www.ChristianJHidalgo.COM to my github repository christianjhidalgo.github.io
+Added my domain www.christianjhidalgo.com to github pages via these instructions https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
 
-will try and sample a static web page with Jekyll. on a MACBOOK PRO.
+//Have to work on getting Jekyll on now.
