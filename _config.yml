@@ -1,5 +1,3 @@
-theme: jekyll-theme-architect
-
 permalink: /blog/:year/:month/:day/:title
 
 remote_theme: chrisrhymes/mere-blog-theme
